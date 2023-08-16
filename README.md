@@ -21,4 +21,5 @@ Become a Software Engineer. Guaranteed.
 
 # Template
 🚀 Github of original creator of this template - https://github.com/adrianhajdin/project_3D_developer_portfolio
-⏯️ Tutotial on Youtube - https://www.youtube.com/watch?v=0fYi8SGA20k
+
+⏯️ Tutorial on Youtube - https://www.youtube.com/watch?v=0fYi8SGA20k
