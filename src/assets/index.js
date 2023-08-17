@@ -47,6 +47,8 @@ import financesapp from "./financesapp.png";
 import musicplayer from "./musicplayer.png";
 import sellsystem from "./sellsystem.png";
 
+import myphoto from "./myphoto.jpeg";
+
 export {
   logo,
   backend,
@@ -90,5 +92,6 @@ export {
   tripguide,
   financesapp,
   musicplayer,
-  sellsystem
+  sellsystem,
+  myphoto
 };

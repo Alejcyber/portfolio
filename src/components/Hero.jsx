@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import { myphoto } from "../assets";
 
 const Hero = () => {
   return (
@@ -22,6 +23,20 @@ const Hero = () => {
             Yo desarrollo Backend en Java(Spring Boot)<br className='sm:block hidden' />
             y Frontend en Angular
           </p>
+          <br />
+          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+            Responsabilidad, compromiso y puntualidad son
+            mis valores, desarrollador con más de 8+ años de
+            experiencia, me encantan los retos y aprender
+            nuevas tecnologías.
+          </p>
+      
+          <img
+            src={myphoto}
+            alt='project_image'
+            className='my-8 object-contain h-50 w-96 rounded-2xl'
+          />
+         
         </div>
       </div>
 
