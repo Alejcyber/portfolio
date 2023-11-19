@@ -38,6 +38,7 @@ import itnoroeste from "./company/itnoroeste.png";
 import jacidi from "./company/jacidi.png";
 import bekesantos from "./company/bekesantos.png";
 import rmsolutions from "./company/rm-solutions.png";
+import nexus from "./company/nexus.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -87,6 +88,7 @@ export {
   jacidi,
   bekesantos,
   rmsolutions,
+  nexus,
   carrent,
   jobit,
   tripguide,
